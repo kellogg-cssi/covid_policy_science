@@ -81,12 +81,11 @@
   "pages": {
     "index.html": {
       "settings": {
-        "title": "Global COVID policy",
-        "meta_descr": "Quantifying Policy Responses to a Global Emergency: Insights from the COVID-19 Pandemic",
+        "title": "Science for policy: COVID-19",
+        "meta_descr": "Coevolution of policy and science during the pandemic",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/https---bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-public-images-c0a65b14-5c7c-4bd9-917d-4a2dbb38f159_1200x880.png-1200x880.jpg",
         "order": 1
       },
       "components": [
